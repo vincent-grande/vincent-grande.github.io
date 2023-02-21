@@ -36,5 +36,5 @@ $$\omega$$-regular properties can encode safety and liveness properties of infin
     </div>
 </div>
 <div class="caption">
-    We model the system using a Markov chain. As a scientist, we want the robot to make infinite coffee, but only break finitely many coffee mugs. (This is an example for an $$\omega$$-regular property.)
+    We model the system using a Markov chain. As a scientist, we naturally want the robot to make infinite coffee, but only break finitely many coffee mugs. (This is an example for an $$\omega$$-regular property, and the application they were defined for.)
 </div>
