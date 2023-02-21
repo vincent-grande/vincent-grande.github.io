@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Exploring global features of networks using tools from topology, algebra, and homotopy theory
+description: Exploring global features of networks using tools from topology, algebra, and homotopy theory.
 nav: true
 nav_order: 1
 ---
