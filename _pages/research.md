@@ -21,7 +21,7 @@ Standard methods of data analysis include projecting the data set onto subspaces
 However in many cases, the information encoded in the point cloud cannot be retrieved by these methods: The points could correspond to the coordinates of atoms of complex portein consisting of multiple loops, or could be sampled from a manifold embedded into high-dimensional space.
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/protein.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/protein.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
          <div class="caption">
     Clustering of NALCN Channelosome, a channel membrane protein, data by Kschonsak et al., 2022. The topological structure of the protein consists of three loops, which our methods are able to identify correctly.
 </div>
@@ -51,10 +51,10 @@ Extracting information from a point cloud by clustering its points into differen
 Topological Point Cloud Clustering (TPCC) uses a remarkable connection between the eigenvectors of Hodge Laplace operators of simplicial complexes and their topology to cluster the underlying points based on their topological roles.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FinalClustering.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FinalClustering.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Robust.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Robust.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -68,7 +68,7 @@ $$\omega$$-regular properties can encode safety and liveness properties of infin
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/restartingrobot.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/restartingrobot.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
