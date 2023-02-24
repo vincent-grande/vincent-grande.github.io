@@ -23,7 +23,7 @@ However in many cases, the information encoded in the point cloud cannot be retr
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/protein.jpg" class="img-fluid rounded z-depth-1" %}
          <div class="caption">
-    Left: Clustering of NALCN Channelosome, a channel membrane protein, data by Kschonsak et al., 2022. Right: Generating features from topology makes them robust to noise by design.
+    Clustering of NALCN Channelosome, a channel membrane protein, data by Kschonsak et al., 2022. The topological structure of the protein consists of three loops, which our methods are able to identify correctly.
 </div>
     </div>
    
