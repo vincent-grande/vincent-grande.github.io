@@ -25,3 +25,5 @@ My research deals with the analysis of networks and data sets with higher-order 
 ##### Short CV
 
 Before moving to Aachen, I obtained a Master of Science in Pure Mathematics at the University of Bonn and a Master of Advanced Study at the University of Cambridge, UK, both times focussing on homotopy theory, algebraic topology, and discrete mathematics. Prior to that, I did a Bachelor of Science in Pure Mathematics and a Two-Subjects Bachelor of Arts in Philosophy/Mathematics at the University of Göttingen focussing on algebra and Wittgenstein's philosophy of language.
+
+I wrote my Master's thesis on G-global homotopy theory supervised by <a href='http://www.math.uni-bonn.de/people/schwede/'>Stefan Schwede</a>, my Cambridge Part III essay on Bott periodicity and the J-homomorphism supervised by <a href='https://www.dpmms.cam.ac.uk/~or257/'>Oscar Randal-Williams</a>, and my Bachelor's thesis on exact modules over Manuel Köhler's ring supervised by <a href='https://www.uni-math.gwdg.de/rameyer/website/index.html'>Ralf Meyer</a>.
