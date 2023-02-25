@@ -62,7 +62,7 @@ Topological Point Cloud Clustering (TPCC) uses a remarkable connection between t
 </div>
 
 <div class="caption">
-    Left: Clustering of synthetic point cloud, 2022. Right: Using features from topology makes them robust to noise by design.
+    Left: Clustering of synthetic point cloud. The algorithm correctly identifies the tori, different line segments, disconnected point clouds, as well as the "gluing points". There are almost no outliers Right: Using features from topology makes them robust to noise by design. Comparison of proposed topological point cloud clustering to k-means and spectral clustering.
 </div>
 
 ### Restart Strategies for Enforcing $$\omega$$-Regular Properties in Partially Observable Markov Chains
