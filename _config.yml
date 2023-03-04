@@ -247,7 +247,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Grande]
-  first_name: [Vincent, P.]
+  first_name: [Vincent]
 
   style: apa
   locale: en
