@@ -8,10 +8,10 @@ profile:
   align: right
   image: ProfilePic11.jpeg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>Room 4019, E1 building</p>
-    <p>Computer Science Department</p>
-    <p>RWTH Aachen University</p>
+  address:
+    #<p>Room 4019, E1 building</p>
+    #<p>Computer Science Department</p>
+    #<p>RWTH Aachen University</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
