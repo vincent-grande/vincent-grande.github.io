@@ -8,11 +8,12 @@ middle_name:
 last_name: Grande
 email: grande@cs.rwth-aachen.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal webpage of Vincent Grande, PhD Candidate in Computer Science, RWTH Aachen University
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: personal-website, computer-science, topological-data-analysis, tda, machine-learning  # add your own keywords or leave empty
+keywords: network-science, topological-data-analysis, tda, machine-learning, rwth-aachen, vincent-grande, vincent-p-grande, computer-science  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: reddonut.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -126,15 +127,15 @@ pagination:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-  category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
-  mapping: title                 # identify discussions by post title
-  strict: 1                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  repo: #alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: #MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  category: #Comments             # name of the category under which discussions will be created
+  category_id: #DIC_kwDOA5PmLc4CTBt6
+  mapping: #title                 # identify discussions by post title
+  strict: #1                      # use strict identification mode
+  reactions_enabled: #1           # enable (1) or disable (0) emoji reactions
+  input_position: #bottom         # whether to display input form below (bottom) or above (top) the comments
+  theme: #preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
 
