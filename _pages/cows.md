@@ -2,7 +2,7 @@
 layout: page
 permalink: /cows/
 title: cows
-description: For your convenience, some photographs of cows.
+description: For your convenience, some of my photographs of cows.
 nav: true
 nav_order: 3
 ---
