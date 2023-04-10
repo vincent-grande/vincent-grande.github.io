@@ -1,2 +1,2 @@
-- name: Jekyll Actions
+  name: Jekyll Actions
   uses: helaili/jekyll-action@2.5.0
