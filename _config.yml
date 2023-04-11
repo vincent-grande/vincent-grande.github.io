@@ -9,7 +9,7 @@ middle_name:
 last_name: Grande
 email: grande@cs.rwth-aachen.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal webpage of Vincent Grande, PhD Candidate in Computer Science, RWTH Aachen University
+  Topological Data Analysis and Network Science: Webpage of Vincent Grande, PhD Candidate in Computer Science, RWTH Aachen University
   
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
