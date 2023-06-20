@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Vincent Grande # the website title (if blank, full name will be used instead)
 first_name: Vincent
-middle_name:
+middle_name: P.
 last_name: Grande
 email: grande@cs.rwth-aachen.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Topological Data Analysis and Network Science: Webpage of Vincent Grande, PhD Candidate in Computer Science, RWTH Aachen University
+  Topological Data Analysis and Network Science: Webpage of Vincent P. Grande, PhD Candidate in Computer Science, RWTH Aachen University
   
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -17,7 +17,7 @@ footer_text: >
 keywords: network-science, topological-data-analysis, tda, machine-learning, rwth-aachen, vincent-grande, vincent-p-grande, computer-science  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: reddonut.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url:  https://vincent-grande.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/

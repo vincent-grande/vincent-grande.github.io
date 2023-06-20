@@ -4,7 +4,7 @@ permalink: /cows/
 title: cows
 description: For your convenience, some of my photographs of cows.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 
