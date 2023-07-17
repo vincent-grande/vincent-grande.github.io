@@ -22,6 +22,8 @@ I am a second-year PhD Candidate in the Computational Network Science Group of <
 
 My research deals with the analysis of networks and data sets with higher-order information. A central motive is to use a blend of techniques from algebra, topology, homotopy theory, and network science to explore the relationship between small scale connectivity data and other localised information, and large-scale behaviour and global properties of data sets.
 
+If you are interested in my research and have questions, new ideas, or suggestions, feel free to get in touch! :)
+
 ##### Short CV
 
 Before moving to Aachen, I obtained a Master of Science in Pure Mathematics at the University of Bonn and a Master of Advanced Study at the University of Cambridge, UK, both times focussing on homotopy theory, algebraic topology, and discrete mathematics. Prior to that, I did a Bachelor of Science in Pure Mathematics and a Two-Subjects Bachelor of Arts in Philosophy/Mathematics at the University of Göttingen focussing on algebra and Wittgenstein's philosophy of language.
