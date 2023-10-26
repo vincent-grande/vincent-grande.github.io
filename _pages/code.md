@@ -16,6 +16,13 @@ TPCC was accepted for publication at the International Conference on Machine Lea
 <a href='https://git.rwth-aachen.de/netsci/publication-2023-topological-point-cloud-clustering'>Code</a>
 <a href='https://arxiv.org/abs/2303.16716'>Paper</a>
 
+### Non-Isotropic Persistent Homology (NIPH)
+
+NIPH tracks changes in the PH diagram induced by changing the underlying metric of the point cloud to extract information on local orientations of point clouds.
+
+<a href='https://git.rwth-aachen.de/netsci/publication-2023-non-isotropic-persistent-homology'>Code</a>
+<a href='https://arxiv.org/abs/2310.16437'>Paper</a>
+
 ### Black-box Testing Liveness Properties of Partially Observable Stochastic Systems
 
 We study black-box testing for stochastic systems and arbitrary ω-regular specifications, explicitly including liveness properties. We are given a finite-state probabilistic system that we can only execute from the initial state. We have no information on the number of reachable states, or on the probabilities; further, we can only partially observe the states. The only action we can take is to restart the system.
@@ -25,3 +32,4 @@ Languages and Programming, 2023.
 
 <a href='https://git.rwth-aachen.de/netsci/restarting-markov-chains-experiments'>Code</a>
 <a href='https://arxiv.org/pdf/2303.03292.pdf'>Paper</a>
+
