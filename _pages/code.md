@@ -7,6 +7,13 @@ nav: true
 nav_order: 3
 ---
 
+### Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal
+
+We provide many cool tools to leverage and analyse the spectral properties of a family of Hodge Laplacians defined on a filtration of simplicial complexes on a point cloud. The paper was accepted for publication at the 2024 IEEE Conference on Acoustics, Speech, And Signal Processing (ICASSP).
+
+<a href='https://git.rwth-aachen.de/netsci/2024-disentangling-the-spectral-properties-of-the-hodge-laplacian'>Code</a>
+<a href='https://arxiv.org/abs/2311.14427'>Paper</a>
+
 ### Topological Point Cloud Clustering (TPCC)
 
 TPCC is a new method to cluster points in an arbitrary point cloud based on their contribution to global topological features. TPCC synthesizes desirable features from spectral clustering and topological data analysis and is based on considering the spectral properties of a simplicial complex associated to the considered point cloud.
