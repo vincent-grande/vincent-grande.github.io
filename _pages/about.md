@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.netsci.rwth-aachen.de/go/id/lzwwm/?lidx=1'>Computational Network Science</a>@RWTH Aachen University
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: ProfilePic11.jpeg
+  image_circular: true # crops the image to make it circular
+  address:
+    #<p>Room 4019, E1 building</p>
+    #<p>Computer Science Department</p>
+    #<p>RWTH Aachen University</p>
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year PhD Candidate in the Computational Network Science Group of <a href='https://michaelschaub.github.io'>Michael Schaub</a> and a member of the <a href='https://www.unravel.rwth-aachen.de/go/id/ofgh/?lidx=1'>RTG UnRAVeL</a> (Research Training Group for Uncertainty and Randomness in Algorithms, Verification, and Logic).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research deals with the analysis of networks and data sets with higher-order information. A central motive is to use a blend of techniques from algebra, topology, homotopy theory, and network science to explore the relationship between small scale connectivity data and other localised information, and large-scale behaviour and global properties of data sets.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you are interested in my research and have questions, new ideas, or suggestions, feel free to get in touch! :)
+
+##### Short CV
+
+Before moving to Aachen, I obtained a Master of Science in Pure Mathematics at the University of Bonn and a Master of Advanced Study at the University of Cambridge, UK, both times focussing on homotopy theory, algebraic topology, and discrete mathematics. Prior to that, I did a Bachelor of Science in Pure Mathematics and a Two-Subjects Bachelor of Arts in Philosophy/Mathematics at the University of Göttingen focussing on algebra and Wittgenstein's philosophy of language.
+
+I wrote my Master's thesis on G-global homotopy theory supervised by <a href='http://www.math.uni-bonn.de/people/schwede/'>Stefan Schwede</a>, my Cambridge Part III essay on Bott periodicity and the J-homomorphism supervised by <a href='https://www.dpmms.cam.ac.uk/~or257/'>Oscar Randal-Williams</a>, and my Bachelor's thesis on exact modules over Manuel Köhler's ring supervised by <a href='https://www.uni-math.gwdg.de/rameyer/website/index.html'>Ralf Meyer</a>.
