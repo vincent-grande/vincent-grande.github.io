@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 ##### Taught Courses
-During the winter term 2023/2024 I will be seminar coordinator for the seminar on (advanced) topics in network science.
+During the winter term 2023/2024 I was seminar coordinator for the seminar on (advanced) topics in network science.
 
 During the summer term 2023 I was teaching assistant for the course on Dynamical Processes on Networks.
 
@@ -17,12 +17,13 @@ In Bonn and Göttingen, I was tutor for Algebra (2017/2018), Linear Algebra for 
 ##### Supervised Theses
 I am currently supervising these theses:
 <ul>
-    <li> Outlier Detection for Trajectories using the normalised and weighted Hodge-Laplacian, Xinyan Lai</li>
+    <li> (I currently supervise no theses. If you are interested in my research and think about writing a Bachelor's/Master's thesis under my supervision, feel free to write me a mail!)</li>
 </ul>
 The following students have succesfully written their theses under my supervision:
 <ul>
     <li> Comparative analysis of spectral methods for community detection with heterogeneous cluster sizes, Jana Hauer, 2023</li>
     <li> Determining the number of clusters in subspace clustering, Peihong Shi, 2023</li>
+    <li> Outlier Detection for Trajectories using the normalised and weighted Hodge-Laplacian, Xinyan Lai, 2024</li>
 </ul>
 
 If you are interested in writing a thesis on a topic of my research, feel free to contact me with a topic proposition. If you don't have a topic in mind but want to write a thesis at our chair, please follow the instructions on our <a href='https://www.netsci.rwth-aachen.de/cms/netsci/Studium/~lzyay/research-papers-and-theses/lidx/1/'>website</a>.
