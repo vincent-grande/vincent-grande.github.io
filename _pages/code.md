@@ -7,6 +7,17 @@ nav: true
 nav_order: 3
 ---
 
+### Node-Level Topological Representation on Point Clouds :potted_plant:
+
+We provide a python package to compute node-level topological point features (TOPF) on point clouds.
+TOPF aims to capture the relationship between the point and the global topology of the point cloud.
+After installing `Julia`, you can install `topf` on Linux and macOS using
+
+    pip install topf
+
+[Code](https://github.com/vincent-grande/topf)
+[Paper](https://arxiv.org/abs/2406.02300)
+
 ### Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal
 
 We provide many cool tools to leverage and analyse the spectral properties of a family of Hodge Laplacians defined on a filtration of simplicial complexes on a point cloud. The paper was accepted for publication at the 2024 IEEE Conference on Acoustics, Speech, And Signal Processing (ICASSP).
