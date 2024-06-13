@@ -37,6 +37,7 @@ TPCC was accepted for publication at the International Conference on Machine Lea
 ### Non-Isotropic Persistent Homology (NIPH)
 
 NIPH tracks changes in the PH diagram induced by changing the underlying metric of the point cloud to extract information on local orientations of point clouds.
+NIPH was accepted for publication at the 2nd annual Learning on Graph Conference 2023.
 
 <a href='https://git.rwth-aachen.de/netsci/publication-2023-non-isotropic-persistent-homology'>Code</a>
 <a href='https://arxiv.org/abs/2310.16437'>Paper</a>
