@@ -19,6 +19,16 @@ nav_order: 4
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cows7.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cows6.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/cows1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
