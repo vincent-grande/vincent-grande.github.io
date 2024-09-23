@@ -47,10 +47,10 @@ Extracting information from a point cloud by clustering its points into differen
 Topological Point Cloud Clustering (TPCC) uses a remarkable connection between the eigenvectors of Hodge Laplace operators of simplicial complexes and their topology to cluster the underlying points based on their topological roles.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FinalClustering.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/FinalClustering.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Robust.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Robust.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -64,7 +64,7 @@ $$\omega$$-regular properties can encode safety and liveness properties of infin
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/restartingrobot.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/restartingrobot.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
