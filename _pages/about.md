@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a third-year PhD Candidate in the Computational Network Science Group of <a href='https://michaelschaub.github.io'>Michael Schaub</a> and a member of the <a href='https://www.unravel.rwth-aachen.de/go/id/ofgh/?lidx=1'>RTG UnRAVeL</a> (Research Training Group for Uncertainty and Randomness in Algorithms, Verification, and Logic).
 
-My research deals with the analysis of networks and data sets with higher-order information. A central motive is to use a blend of techniques from algebra, topology, homotopy theory, and network science to explore the relationship between small scale connectivity data and other localised information, and large-scale behaviour and global properties of data sets.
+My research deals with the analysis of networks and data sets with higher-order information. A central motive is to use a blend of techniques from **algebra**, **topology**, **homotopy theory**, and **network science** to explore the relationship between **small-scale connectivity data** and other localised information, and **large-scale behaviour and global properties of data sets**.
 
 If you are interested in my research and have questions, new ideas, or suggestions, feel free to get in touch! :)
 
