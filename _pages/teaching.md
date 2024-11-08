@@ -8,6 +8,8 @@ nav_order: 2
 ---
 
 ##### Taught Courses
+In the winter term 2024/2025, I am the organising teaching assistant for the course on Dynamical Processes on Networks. Feel free to reach out to me with feedback and questions!
+
 During the winter term 2023/2024 I was seminar coordinator for the seminar on (advanced) topics in network science.
 
 During the summer term 2023 I was teaching assistant for the course on Dynamical Processes on Networks.
@@ -17,7 +19,7 @@ In Bonn and Göttingen, I was tutor for Algebra (2017/2018), Linear Algebra for 
 ##### Supervised Theses
 I am currently supervising these theses:
 <ul>
-    <li> (I currently supervise no theses. If you are interested in my research and think about writing a Bachelor's/Master's thesis under my supervision, feel free to write me a mail!)</li>
+    <li> Joint Sampling and Signal Reconstruction on Edges and Nodes, Jana Hauer</li>
 </ul>
 The following students have succesfully written their theses under my supervision:
 <ul>
