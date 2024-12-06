@@ -1,5 +1,5 @@
 "Schaub":
-  - firstname: ["Michael", "M. T.", "Michael T."]
+  - firstname: ["Michael", "M. T.", "Michael T.", "Michael T"]
     url: https://michaelschaub.github.io
 
 "Esparza":
@@ -14,3 +14,6 @@
   - firstname: ["Santiago"]
     url: https://segarra.rice.edu
     
+"Hoppe":
+  - firstname: ["Josef"]
+    url: https://hoppe.io
