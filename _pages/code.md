@@ -18,6 +18,13 @@ After installing `Julia`, you can install `topf` on Linux and macOS using
 [Code](https://github.com/vincent-grande/topf)
 [Paper](https://arxiv.org/abs/2406.02300)
 
+### Topological Trajectory Classification and Landmark Inference on Simplicial Complexes
+
+We develop a novel algorithm to learn the topology of the underlying network using landmarks from trajectory data. The paper was accepted for publication at the 2024 IEEE Asilomar Conference on Signals, Systems and Computers.
+
+[Code](https://git.rwth-aachen.de/netsci/landmark-inference)
+[Paper](https://arxiv.org/abs/2412.03145)
+
 ### Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal
 
 We provide many cool tools to leverage and analyse the spectral properties of a family of Hodge Laplacians defined on a filtration of simplicial complexes on a point cloud. The paper was accepted for publication at the 2024 IEEE Conference on Acoustics, Speech, And Signal Processing (ICASSP).
