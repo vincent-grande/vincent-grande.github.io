@@ -41,7 +41,7 @@ Network Science, and especially signal processing on networks, on the other hand
 
 The overarching theme of my research is to combine perspectives of algebraic topology, network science, signal processing and clasical data anlysis to develop tools from extracting higher order information from point clouds and networks.
 
-#### Project A: Clustering Point Clouds in High-Dimensional Space Using Topological Information
+#### Project: Clustering Point Clouds in High-Dimensional Space Using Topological Information
 
 Extracting information from a point cloud by clustering its points into different classes is one of most used concepts of data analysis. Standard clustering algorithms like $$k$$-means or Spectral Clustering, however, have a rather simple underlying notion of what makes different points belong to the same cluster: Proximity in space. However, sometimes correct cluster assignments can only be achieved using higher-order global information encoded in the point cloud. My research deals with trying to utilise various techniques from topology and algebra to generate meaningful topological features for clustering of point clouds.
 Topological Point Cloud Clustering (TPCC) uses a remarkable connection between the eigenvectors of Hodge Laplace operators of simplicial complexes and their topology to cluster the underlying points based on their topological roles.
@@ -58,15 +58,4 @@ Topological Point Cloud Clustering (TPCC) uses a remarkable connection between t
     Left: Clustering of synthetic point cloud. The algorithm correctly identifies the tori, different line segments, disconnected point clouds, as well as the "gluing points". There are almost no outliers Right: Using features from topology makes them robust to noise by design. Comparison of proposed topological point cloud clustering to k-means and spectral clustering.
 </div>
 
-#### Project B: Restart Strategies for Enforcing $$\omega$$-Regular Properties in Partially Observable Markov Chains
-
-$$\omega$$-regular properties can encode safety and liveness properties of infinite runs of systems: We might want a web client to be able to load data packages for an unlimited number of times, or to hang only finitely often. Now we assume that we want to build a monitor enforcing this property. However, the only action available to this monitor is to restart the system. Now, the interesting question is: How much information on the state of the system does the restart monitor need in order to ensure that, with probability 1, there are only finitely many restarts and the run after the last restart satisfies the desired $$\omega$$-regular property? Previous approaches used information on the visited states to build candidates for bottom strongly components (BSSCs). The monitor would then restart once it was sure enough that it reached a BSSC that would lead to a violation of the desired property. Surprisingly, it turns out that restart strategies exist with far less information on the chain and the state of the system! In fact, by becoming increasingly hesistant to restart both during a single run and with each subsequent restart we were able to show that restart strategies only need access to the observed labels of the states visited during the run.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/restartingrobot.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    We model the system using a Markov chain. As a scientist, we naturally want the robot to make infinite coffee, but only break finitely many coffee mugs. (This is an example for an omega-regular property, and the application they were almost surely defined for.)
-</div>
+For an up-to-date version of my research interests, please see the publications page.
