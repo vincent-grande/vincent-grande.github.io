@@ -22,6 +22,8 @@ I am a third-year PhD Candidate in the Computational Network Science Group of <a
 
 My research deals with the analysis of networks and data sets with higher-order information. A central motive is to use a blend of techniques from **algebra**, **topology**, **homotopy theory**, and **network science** to explore the relationship between **small-scale connectivity data** and other localised information, and **large-scale behaviour and global properties of data sets**.
 
+A **talk on Hodge Learning and my research** I gave at the networks seminar at the University of Oxford is [available on YouTube](https://www.youtube.com/watch?v=TjUo6ITCGqk).
+
 If you are interested in my research and have questions, new ideas, or suggestions, feel free to get in touch! :)
 
 ##### Short CV
