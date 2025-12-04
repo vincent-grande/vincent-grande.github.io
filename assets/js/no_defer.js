@@ -1,7 +1,8 @@
 // add bootstrap classes to tables
 $(document).ready(function () {
   $("table").each(function () {
-    if (determineComputedTheme() == "dark") {
+    const htmlTheme = document.documentElement.getAttribute("data-theme");
+    if (htmlTheme === "dark") {
       $(this).addClass("table-dark");
     } else {
       $(this).removeClass("table-dark");
