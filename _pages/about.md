@@ -24,7 +24,7 @@ My research deals with the analysis of networks and data sets with higher-order 
 
 A **talk on Hodge Learning and my research** I gave at the networks seminar at the University of Oxford is [available on YouTube](https://www.youtube.com/watch?v=TjUo6ITCGqk).
 
-If you are interested in my research and have questions, new ideas, or suggestions, feel free to get in touch! :)
+If you are interested in my research and have questions, new ideas, or suggestions, please get in touch! I am genuinely happy about any research-related email I receive! :)
 
 ##### Short CV
 
