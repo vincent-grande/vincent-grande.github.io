@@ -6,7 +6,7 @@ subtitle: <a href='https://www.netsci.rwth-aachen.de/go/id/lzwwm/?lidx=1'>Comput
 
 profile:
   align: right
-  image: ProfilePic11.jpeg
+  image: VincentOfficial.jpeg
   image_circular: true # crops the image to make it circular
   address:
     #<p>Room 4019, E1 building</p>
@@ -25,6 +25,8 @@ My research deals with the analysis of networks and data sets with higher-order 
 A **talk on Hodge Learning and my research** I gave at the networks seminar at the University of Oxford is [available on YouTube](https://www.youtube.com/watch?v=TjUo6ITCGqk).
 
 If you are interested in my research and have questions, new ideas, or suggestions, please get in touch! I am genuinely happy about any research-related email I receive! :)
+
+**I am looking for a PostDoc position starting summer 2027! :blush:**
 
 ##### Short CV
 

@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+**I will update this once I have handed in my PhD thesis**. A recent overview of my current research can be found on the publications page.
+
 ### Higher-order Information Encoded in Networks and Point Clouds
 
 <figure class="figure w-50 float-right m-3">
