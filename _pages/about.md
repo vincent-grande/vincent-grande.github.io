@@ -26,7 +26,7 @@ A **talk on Hodge Learning and my research** I gave at the networks seminar at t
 
 If you are interested in my research and have questions, new ideas, or suggestions, please get in touch! I am genuinely happy about any research-related email I receive! :)
 
-**I am looking for a PostDoc position starting summer 2027! :blush:**
+**I am looking for a PostDoc position starting summer/autumn 2027! :blush:**
 
 ##### Short CV
 
