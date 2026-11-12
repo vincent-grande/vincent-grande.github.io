@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+ruby file: '.ruby-version'
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -24,7 +26,11 @@ group :jekyll_plugins do
     gem 'webrick'
 end
 group :other_plugins do
+    gem 'benchmark'
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    gem 'logger'        # required by Jekyll on Ruby 4
+    gem 'observer'      # required by jekyll-scholar on modern Ruby
+    gem 'ostruct'       # required by jekyll-twitter-plugin on Ruby 4
 end

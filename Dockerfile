@@ -1,4 +1,4 @@
-FROM ruby:latest
+FROM ruby:4.0.9
 ENV DEBIAN_FRONTEND noninteractive
 
 Label MAINTAINER Amir Pourmand
@@ -26,6 +26,7 @@ RUN mkdir /srv/jekyll
 
 ADD Gemfile.lock /srv/jekyll
 ADD Gemfile /srv/jekyll
+COPY .ruby-version /srv/jekyll/
 
 WORKDIR /srv/jekyll
 
