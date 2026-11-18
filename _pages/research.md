@@ -67,7 +67,7 @@ My research programme aims to develop and understand interpretable geometric met
 1. V. P. Grande and M. T. Schaub. ICML 2023. [Topological Point Cloud Clustering][tpcc]
 2. V. P. Grande and M. T. Schaub. ICML 2025. [Point-Level Topological Representation Learning on Point Clouds][topf]
 3. V. P. Grande and M. T. Schaub. ICASSP 2024. [Disentangling the Spectral Properties of the Hodge Laplacian: Not All Small Eigenvalues Are Equal][hodge-spectrum]
-4. V. P. Grande and M. T. Schaub. **Multiscale Localised Hodge Energy Signatures**. [Asilomar 2026 programme][hodge-signatures] (accepted).
+4. V. P. Grande and M. T. Schaub. **Multiscale Localised Hodge Energy Signatures**. [Asilomar Conference on Signals, Systems, and Computers 2026][hodge-signatures] (accepted).
 5. V. P. Grande and M. Meilă. arXiv, 2026. [Selecting Interpretable Circular Coordinates from Data][circol]
 6. M. Cheng, J. Jansen, K. C. Reimer, V. P. Grande et al. **Nature Methods**, 2025. [PHLOWER leverages single-cell multimodal data to infer complex, multi-branching cell differentiation trajectories][phlower]
 

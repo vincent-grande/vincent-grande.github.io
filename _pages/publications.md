@@ -5,7 +5,7 @@ title: publications
 description: An overview of my publications.
 nav: true
 years: [2024, 2023]
-nav_order: 1
+nav_order: 0
 ---
 
 <!-- _pages/publications.md -->
